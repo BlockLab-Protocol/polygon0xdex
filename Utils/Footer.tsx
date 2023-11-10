@@ -44,7 +44,7 @@ const Footer = () => {
           <img src="/icons/instagram.svg" alt="Instagram" style={iconStyle} />
         </a>
         <a href="https://www.discord.com" target="_blank" rel="noopener noreferrer">
-          <img src="/public/icons/discord.svg" alt="Discord" style={iconStyle} />
+          <img src="/icons/discord.svg" alt="Discord" style={iconStyle} />
         </a>
       </div>
       &copy; 2023 Blocklab-Protocol || Blockswap
